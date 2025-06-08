@@ -2,18 +2,6 @@
 
 ---
 
-<br/>
-
-Hey Guys, here is a list of **350+ Free TryHackMe rooms** to start learning hacking. I have arranged and compiled it according to different topics so that you can start hacking right away.
-
-All the rooms mentioned here are absolute free. ENJOY!!
-
-## Maintainer
-
-> **_This repository is maintained by [Al Arafat Tanin | rng70](https://github.com/rng70/). For any suggestion feel free to reach [me.](https://github.com/rng70/)_**
-
-<br/>
-
 ## Table of Contents
 
 </aside>
@@ -21,7 +9,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
 | **[Introductory Rooms](#intro-rooms)**            |     **10**      |                           |
-| **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |           **5**           |
+| **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |                           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |                           |
 | **[Reconnaissance](#recon)**                      |     **10**      |                           |
