@@ -9,7 +9,7 @@
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
 | **[Introductory Rooms](#intro-rooms)**            |      **9**      |           **9**           |
-| **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |                           |
+| **[Linux Fundamentals](#linux-fundamentals)**     |      **4**      |                           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |                           |
 | **[Reconnaissance](#recon)**                      |     **10**      |                           |
@@ -61,8 +61,6 @@
 ## Linux Fundamentals
 
 ---
-
-- [ ] [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)
 
 - [ ] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 
